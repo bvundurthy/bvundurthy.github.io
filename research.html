@@ -53,6 +53,8 @@
 
 <li><p><b>B. Vundurthy</b> and K. Sridharan,  "<a href="https://ieeexplore.ieee.org/abstract/document/8333810">Multiagent Gathering With Collision Avoidance and a Minimax Distance Criterion—Efficient Algorithms and Hardware Realization</a>," in <b>IEEE Transactions on Industrial Informatics</b>, vol. 15, no. 2, pp. 699-709, Feb. 2019 (Journal Impact Factor: <b>9.112</b>).</p></li>
 
+<li><p>Sharad Kumar Singh, Puduru Viswanadha Reddy, and <b>B. Vundurthy</b>, "<a href="media/6_papers/7_TAD_TCST.pdf">Study of multiple target defense differential games using receding horizon based switching strategies</a>," in <b>IEEE Transactions on Control Systems Technology</b>, accepted for Publication in August 2021.</p></li>
+
 <li><p><b>B. Vundurthy</b> and K. Sridharan, "<a href="https://ieeexplore.ieee.org/abstract/document/8591456">Time Optimal Rendezvous for Multi-Agent Systems Amidst Obstacles - Theory and Experiments</a>," IECON 2018 - 44th Annual Conference of the IEEE Industrial Electronics Society, Washington, DC, 2018, pp. 2645-2650.</p></li>
 
 <li><p>Onkar Kulkarni, <b>B. Vundurthy</b>, and K. Sridharan. 2019. <a href="https://dl.acm.org/doi/abs/10.1145/3352593.3352647">Rendezvous of Heterogeneous Robots in Minimum Time - Theory and Experiments</a>. In Proceedings of the Advances in Robotics 2019 (AIR 2019). Association for Computing Machinery, New York, NY, USA, Article 38, 1–6.</p></li>
@@ -60,8 +62,6 @@
 <li><p><b>B. Vundurthy</b>, A. More, S. V. V. Raju and K. Sridharan, "<a href="https://ieeexplore.ieee.org/abstract/document/7441158">Rendezvous of heterogeneous robots amidst obstacles with limited communication</a>," 2016 Indian Control Conference (ICC), Hyderabad, 2016, pp. 347-353.</p></li>
 
 <li><p>P. Nagachandrika, <b>B. Vundurthy</b>, Yashrajsinh Parmar, R. Sarathi and K. Sridharan, "SRASRH: Design, Kinematic Analysis and Grasping Studies for a Silicone Rubber-based Anthropomorphic Soft Robot Hand," submitted to Advanced Robotics. </p></li>
-
-<li><p>Sharad Kumar Singh, P. Viswanadha Reddy and <b>B. Vundurthy</b>, "Study of a multiple active-target attacker defender differential game using a mode switching strategy," rebuttal submitted to IEEE Transactions on Control Systems Technology. </p></li>
 
 <li><p><b>B. Vundurthy</b>, Onkar Kulkarni and K. Sridharan, "Rendezvous of a Humanoid with a Wheeled Robot Amidst Heterogeneous Objects Based on a Minimax Distance Criterion," submitted to IEEE Robotics and Automation Letters. </p></li>
 
@@ -104,7 +104,24 @@ factory automation and welfare support systems is limited area and power on-boar
 <img src="media/2_minimax/rob_k_obst_n_poly_eff.gif" alt="Gathering point for two robots and three obstacles" style="width:360px;height:240px;">
 </center>
 
-<h3>3. Time Optimal Rendezvous for Multi-Agent Systems Amidst Obstacles - Theory and Experiments</h3>
+<h3>3. Study of multiple target defense differential games using receding horizon based switching strategies</h3>
+
+<p><b>Abstract:</b> In this paper, we study a variation of the Active Target-Attacker-Defender (ATAD) differential game involving
+multiple targets, an attacker and a defender. Our model allows for (i) a capability of the defender to switch roles from rescuer
+(rendezvous with all the targets) to interceptor (intercepts the attacker) and vice-versa; (ii) the attacker to continuously pursue
+the closest target (which can change during the course of the game). We assume that the mode of the defender (rescue or
+interception) defines the mode of the game itself. Using the framework of Games of a Degree, we first analyze the game
+within each mode. More specifically, the objectives of the players are taken as a combination of weighted Euclidean distances and
+penalties on their control efforts. We model the interaction of the players within each mode as a linear quadratic differential
+game (LQDG) and obtain the open-loop Nash equilibrium strategies. We then use the receding horizon approach to enable switching between the modes to obtain switching strategies for the players. By partitioning the matrices associated with the Riccati differential equations we obtain geometric characterization of the trajectories of the players. Further, under mild restrictions on the problem parameters and for a particular choice of the defender’s switching function we show that interception mode is invariant. We illustrate our results with numerical simulations.
+Experimental results involving multiple autonomous differential drive mobile robots are presented. </p>
+
+<center><video width="480" height="320" controls="">
+  <source src="media/7_tad_tcst/TAD_New_Expt_2_revision_submit_final.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></center>
+
+<h3>4. Time Optimal Rendezvous for Multi-Agent Systems Amidst Obstacles - Theory and Experiments</h3>
 
 <p><b>Abstract:</b> Rendezvous of multiple autonomous agents has been of active interest in the last decade. Considerable work has been done on this problem with constraints on sensing and shape of the environment. However, not much is known on rendezvous amidst obstacles. When obstacles are introduced into the setting, it becomes natural to explore strategies for rendezvous that optimize some parameter (such as distance, time etc.). Our objective in this paper is to compute a location (which we refer to as the Time Optimal Rendezvous Point (TORP)) that minimizes the time for rendezvous amidst obstacles. We discuss challenges in finding TORP and develop efficient algorithms to compute TORP for r agents moving amidst m static polygonal obstacles. We then extend the analysis to handle dynamic obstacles. Experimental results are presented to validate the theory.</p>
 
