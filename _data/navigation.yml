@@ -1,9 +1,11 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Research"
+    children:
+      - title: "Multi-agent Systems"
+        url: /multi-agent-systems/
+      - title: "Game Theory"
+        url: /game-theory/
   - title: "About"
     url: /about/
