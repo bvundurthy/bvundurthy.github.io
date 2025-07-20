@@ -1,11 +1,71 @@
+# _data/navigation.yml
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Service"
+    url: /service/
+
+  
+docs:
+  - title: "Research"
+    url: /research/
     children:
       - title: "Multi-agent Systems"
-        url: /multi-agent-systems/
-      - title: "Game Theory"
-        url: /game-theory/
-  - title: "About"
-    url: /about/
+        url: /research/multi-agent-systems/
+      - title: "Game Theory" 
+        url: /research/game-theory/
+      - title: "Robotic Testbeds"
+        url: /research/robotic-testbeds/ 
+
+  - title: "Publications"
+    url: /publications/
+    children:
+      - title: "Journals"
+        url: /publications/journals/
+      - title: "Conferences"
+        url: /publications/conferences/
+      - title: "Workshops"
+        url: /publications/workshops/ 
+
+  - title: "Service"
+    url: /service/
+    children: 
+    - title: "Academic"
+      url: /service/academic/
+    - title: "Teaching"
+      url: /service/teaching/ 
+
+  # - title: Content
+  #   children:
+  #     - title: "Working with Posts"
+  #       url: /docs/posts/
+  #     - title: "Working with Pages"
+  #       url: /docs/pages/
+  #     - title: "Working with Collections"
+  #       url: /docs/collections/
+  #     - title: "Helpers"
+  #       url: /docs/helpers/
+  #     - title: "Utility Classes"
+  #       url: /docs/utility-classes/
+
+  # - title: Extras
+  #   children:
+  #     - title: "Stylesheets"
+  #       url: /docs/stylesheets/
+  #     - title: "JavaScript"
+  #       url: /docs/javascript/
+
+
+# main:
+#   - title: "Posts"
+#     url: /posts/
+#   - title: "Research"
+#     children:
+#       - title: "Multi-agent Systems"
+#         url: /multi-agent-systems/
+#       - title: "Game Theory"
+#         url: /game-theory/
+#   - title: "About"
+#     url: /about/

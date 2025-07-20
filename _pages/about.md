@@ -1,8 +1,20 @@
 ---
-permalink: /about/
-title: "About"
+title: "About me"
+layout: single
+author_profile: true
+permalink: /
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a Project Scientist at the Robotics Institute, Carnegie Mellon University (CMU). My research is dedicated to a fundamental challenge for the future of robotics: how can teams of autonomous robots collaborate and succeed in complex environments, especially when facing adversaries?
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This opposition can take many forms. It might be the environment itself, like a team of drones battling high winds to find survivors in a wildfire. It could be an active adversary, such as a hostile agent jamming a drone's sensors or ambushing an autonomous convoy. Or, it could even come from within a coalition, as agents switch allegiances for individual gain.
+
+To address these challenges, I develop new theoretical foundations for multi-agent systems that are rigorously tested in the real world. My interdisciplinary approach draws from computational geometry, game theory, control theory, and operations research to build a framework centered on three key pillars:
+
+-   **Collaborative Autonomy:** Optimizing coordination within the robot team, 
+-   **Contested Coordination:** Developing strategies to outmaneuver or intercept adversaries, and
+-   **Informed Decision-making:** Leveraging informational advantages to exploit opponent vulnerabilities.
+
+I am a strong believer in experimental validation, and I actively use both in-house fabricated and commercial autonomous robots to bring my research from theory to practice. Before my time at CMU, I worked at The MathWorks Inc., where I created advanced simulations for autonomous vehicles, including for the Indy-500 oval circuit.
+
+My work has been recognized with best-paper nominations and invitations to special-issue journals. Beyond research, I am deeply passionate about mentoring the next generation of roboticists and was honored to be nominated for CMU's prestigious ‘Andy Award’ for my dedication to student mentorship.

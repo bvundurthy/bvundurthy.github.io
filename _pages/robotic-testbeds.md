@@ -1,6 +1,6 @@
 ---
-title: "Research: Multi-agent Systems"
-permalink: /research/multi-agent-systems/
+title: "Robotic Testbeds"
+permalink: /research/robotic-testbeds/
 layout: single
 # sidebar:
 #   nav: "research_navigation"
