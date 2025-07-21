@@ -1,0 +1,9 @@
+## Workshops
+
+7.  S. Singh, G. Gutow, **B. Vundurthy**, and H. Choset, "Hierarchical Planner for the cuboid-Multi-Agent Collective Construction Problem," in the 1st International Workshop on Collaborative Strategies for Multi-agent Robotic Construction: Block by Block at IEEE ICRA, 2025.
+6.  **B. Vundurthy**, G. Gutow, A. K. Srinivasan, A. Xu, B. Shirose, and H. Choset, "Generalized Multi-Agent Multi-Objective Ergodic Search," in the 6th International Workshop on Multi-Agent Path Finding at AAAI, 2025.
+5.  A. Xu, **B. Vundurthy**, G. Gutow, I. Abraham, J. Schneider, and H. Choset, "Measure Preserving Flows for Ergodic Search in Convoluted Environments," in the 6th International Workshop on Multi-Agent Path Finding at AAAI, 2025.
+4.  A. Bhat, G. Gutow, **B. Vundurthy**, Z. Ren, S. Rathinam, and H. Choset, "Toward Multi-Agent Moving Target Traveling Salesman Problems," in the 6th International Workshop on Multi-Agent Path Finding at AAAI, 2025.
+3.  P. Sriganesh, J. Maier, A. Johnson, B. Shirose, R. Chandrasekar, C. Noren, J. Spisak, R. Darnley, **B. Vundurthy**, and M. Travers. "Modular, Resilient, and Scalable System Design Approaches--Lessons learned in the years after DARPA Subterranean Challenge," in the Workshop on Field Robotics at ICRA 2024. [Preprint](https://arxiv.org/pdf/2404.17759)
+2.  S. Singh, G. Gutow, A. K. Srinivasan, **B. Vundurthy**, and H. Choset. "Hierarchical Propositional Logic Planning for Multi-Agent Collective Construction," in the 4th Workshop on Future of Construction: Safe, Reliable, and Precise Robots in Construction Environments, ICRA 2023.
+1.  A. K. Srinivasan, S. Singh, G. Gutow, H. Choset and **B. Vundurthy**, "Multi-Agent Collective Construction Using 3D Decomposition," in the Multi-Agent Path Finding workshop at AAAI, 2023.
