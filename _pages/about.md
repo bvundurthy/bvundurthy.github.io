@@ -1,6 +1,6 @@
 ---
 title: "About me"
-layout: single
+layout: splash
 class: wide  
 author_profile: true
 permalink: /

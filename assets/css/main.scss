@@ -1,30 +1,42 @@
 ---
+# Only the front matter gets processed by Jekyll
 ---
 
-@import "minimal-mistakes";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // Imports the theme's skin
+@import "minimal-mistakes"; // Imports the theme's main styles
 
-/* -- Custom Styles -- */
+/* --- Fix for 'wide' layout on single pages --- */
+.wide .page__inner-wrap {
+  max-width: 1280px !important; /* Forces the content to be wider */
+}
+
+/* --- Disable sidebar hover effect --- */
+/* Makes the avatar and text always appear emphasized */
+.sidebar .author__avatar a,
+.sidebar .author__content {
+  opacity: 1 !important;
+}
+
+/* Forces the bio text to remain black */
+.sidebar .author__bio p, 
+.sidebar .author__bio .author__name,
+.sidebar .author__bio .author__location {
+    color: #000 !important;
+}
+
+
+/* --- Your Previous Customizations (Kept) --- */
 .page__content p,
 .page__content li,
 .page__content dl {
-  font-size: 0.75em; /* Adjust this value as needed */
+  font-size: 0.75em;
 }
-/* -- Custom Avatar Styles -- */
+
 .author__avatar img {
-  /* --- Size --- */
-  max-width: 180px !important;  /* Change this value to make it bigger or smaller */
-  height: auto !important; /* Keep this the same as the width */
+  max-width: 180px !important;
+  height: auto !important;
 }
 
-// .author__avatar {
-//   opacity: 1;
-// }
-
-.sidebar .author__avatar a:hover,
-.sidebar .author__avatar a:focus {
-  opacity: 1;
-}
-
-.sidebar .author__avatar a {
-  opacity: 1 !important;
+.masthead__menu-item {
+  font-size: 20px;
 }
