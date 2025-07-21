@@ -115,3 +115,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Force a site rebuild on July 21, 2025
