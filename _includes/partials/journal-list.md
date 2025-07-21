@@ -1,12 +1,28 @@
 ## Journals
 
-9.  H. Sridharan, N. Ramsai and **B. Vundurthy**, "Generative Models, Attention Mechanisms and Adaptive Methods for Robot Navigation in Complex Environments – A Survey," in IEEE Access. [link](https://ieeexplore.ieee.org/document/11084772) [PDF](https://bvundurthy.github.io/media/J09_Survey_Learning_IEEE_Access.pdf)
-8.  C. Noren, **B. Vundurthy**, S. Scherer, H. Choset and M. Travers, "A Synchronized Task Formulation for Robotic Convoy Operations," in *IEEE Robotics and Automation Letters*, vol. 10, no. 7, pp. 6808-6815, July 2025. [link](https://ieeexplore.ieee.org/document/11005881) [PDF](https://bvundurthy.github.io/media/6_papers/J08_VRPMS-CC_with_Heuristic_RA-L_2025.pdf)
-7.  C. Noren, **B. Vundurthy**, S. Scherer, and M. Travers, "Interaction-aware control for robotic vegetation override in off-road environments," in *Journal of Terramechanics*, vol. 117:101034, 2025. [link](https://www.sciencedirect.com/science/article/pii/S0022489824000764) [PDF](https://bvundurthy.github.io/media/6_papers/10_Chase_Terramechanics.pdf)
-6.  **B. Vundurthy**, A. Kanellopoulos, V. Gupta, and K. G. Vamvoudakis, "Intelligent Players in a Fictitious Play Framework," in *IEEE Transactions on Automatic Control*, vol. 69, no. 1, pp. 479-486, Jan. 2024. [link](https://ieeexplore.ieee.org/document/10100885) [Preprint](https://bvundurthy.github.io/media/6_papers/8_Fictitious_Play_Games.pdf)
-5.  U. S. Datla, **B. Vundurthy**, J. S. Hook, N. Menon, H. R. Bagtash, T. Shihabeddin, D. W. Schmidtke, J. G. Moreland, M. Z. Radic, and C. N. Jones, "Quantifying neutrophil extracellular trap release in a combined infection–inflammation NET-array device," in *Lab on a Chip*, vol. 24, no. 3, pp. 615-628, Jan. 2024. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10826461/) [PDF](https://pubs.rsc.org/en/content/articlepdf/2024/lc/d3lc00648d)
-4.  Z. Ren, A. K. Srinivasan, **B. Vundurthy**, I. Abraham and H. Choset, "A Pareto-Optimal Local Optimization Framework for Multiobjective Ergodic Search," in *IEEE Transactions on Robotics*, vol. 39, no. 5, pp. 3452-3463, Oct. 2023. [link](https://ieeexplore.ieee.org/document/10158414) [Preprint](https://bvundurthy.github.io/media/6_papers/9_Ergodic_TRO_MOES.pdf)
-3.  S. K. Singh, P. V. Reddy and **B. Vundurthy**, "Study of Multiple Target Defense Differential Games Using Receding Horizon-Based Switching Strategies," in *IEEE Transactions on Control Systems Technology*, vol. 30, no. 4, pp. 1403-1419, July 2022. [link](https://ieeexplore.ieee.org/document/9524434) [Preprint](https://bvundurthy.github.io/media/6_papers/7_TAD_TCST.pdf)
-2.  **B. Vundurthy** and K. Sridharan, "Protecting an Autonomous Delivery Agent Against a Vision-Guided Adversary: Algorithms and Experimental Results," in *IEEE Transactions on Industrial Informatics*, vol. 16, no. 9, pp. 5667-5679, Sept. 2020. [link](https://ieeexplore.ieee.org/document/8930280) [Preprint](https://bvundurthy.github.io/media/6_papers/5_Protection_TII_2020.pdf)
-1.  **B. Vundurthy** and K. Sridharan, "Multiagent Gathering With Collision Avoidance and a Minimax Distance Criterion—Efficient Algorithms and Hardware Realization," in *IEEE Transactions on Industrial Informatics*, vol. 15, no. 2, pp. 699-709, Feb. 2019. [link](https://ieeexplore.ieee.org/document/8333810) [Preprint](https://bvundurthy.github.io/media/6_papers/2_Minimax_TII_2018.pdf)
+9\. **[Generative Models, Attention Mechanisms and Adaptive Methods for Robot Navigation in Complex Environments – A Survey](https://ieeexplore.ieee.org/document/11084772)** (*IEEE Access*)  
+H. Sridharan, N. Ramsai and **B. Vundurthy** [PDF](https://bvundurthy.github.io/media/J09_Survey_Learning_IEEE_Access.pdf)
 
+8\. **[A Synchronized Task Formulation for Robotic Convoy Operations](https://ieeexplore.ieee.org/document/11005881)** (*IEEE Robotics and Automation Letters*, 2025)  
+C. Noren, **B. Vundurthy**, S. Scherer, H. Choset and M. Travers  [PDF](https://bvundurthy.github.io/media/6_papers/J08_VRPMS-CC_with_Heuristic_RA-L_2025.pdf)
+
+7\. **[Interaction-aware control for robotic vegetation override in off-road environments](https://www.sciencedirect.com/science/article/pii/S0022489824000764)** (*Journal of Terramechanics*, 2025)  
+C. Noren, **B. Vundurthy**, S. Scherer, and M. Travers  [PDF](https://bvundurthy.github.io/media/6_papers/10_Chase_Terramechanics.pdf)
+
+6\. **[Intelligent Players in a Fictitious Play Framework](https://ieeexplore.ieee.org/document/10100885)** (*IEEE Transactions on Automatic Control*, 2024)  
+**B. Vundurthy**, A. Kanellopoulos, V. Gupta, and K. G. Vamvoudakis [Preprint](https://bvundurthy.github.io/media/6_papers/8_Fictitious_Play_Games.pdf)
+
+5\. **[Quantifying neutrophil extracellular trap release in a combined infection–inflammation NET-array device](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10826461/)** (*Lab on a Chip*, 2024)  
+U. S. Datla, **B. Vundurthy**, J. S. Hook, N. Menon, H. R. Bagtash, T. Shihabeddin, D. W. Schmidtke, J. G. Moreland, M. Z. Radic, and C. N. Jones  [PDF](https://pubs.rsc.org/en/content/articlepdf/2024/lc/d3lc00648d)
+
+4\. **[A Pareto-Optimal Local Optimization Framework for Multiobjective Ergodic Search](https://ieeexplore.ieee.org/document/10158414)** (*IEEE Transactions on Robotics*, 2023)  
+Z. Ren, A. K. Srinivasan, **B. Vundurthy**, I. Abraham and H. Choset  [Preprint](https://bvundurthy.github.io/media/6_papers/9_Ergodic_TRO_MOES.pdf)
+
+3\. **[Study of Multiple Target Defense Differential Games Using Receding Horizon-Based Switching Strategies](https://ieeexplore.ieee.org/document/9524434)** (*IEEE Transactions on Control Systems Technology*, 2022)  
+S. K. Singh, P. V. Reddy and **B. Vundurthy** [Preprint](https://bvundurthy.github.io/media/6_papers/7_TAD_TCST.pdf)
+
+2\. **[Protecting an Autonomous Delivery Agent Against a Vision-Guided Adversary: Algorithms and Experimental Results](https://ieeexplore.ieee.org/document/8930280)** (*IEEE Transactions on Industrial Informatics*, 2020)  
+**B. Vundurthy** and K. Sridharan  [Preprint](https://bvundurthy.github.io/media/6_papers/5_Protection_TII_2020.pdf)
+
+1\. **[Multiagent Gathering With Collision Avoidance and a Minimax Distance Criterion—Efficient Algorithms and Hardware Realization](https://ieeexplore.ieee.org/document/8333810)** (*IEEE Transactions on Industrial Informatics*, 2019)  
+**B. Vundurthy** and K. Sridharan  [Preprint](https://bvundurthy.github.io/media/6_papers/2_Minimax_TII_2018.pdf)

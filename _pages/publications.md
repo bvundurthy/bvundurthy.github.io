@@ -2,6 +2,7 @@
 title: "Publications"
 permalink: /publications/
 layout: single
+class: wide  
 ---
 
 {% include partials/journal-list.md %}
