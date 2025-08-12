@@ -59,9 +59,9 @@ For logistics and search-and-rescue missions, robotic convoys must navigate comp
 
 ## Multi-agent Ergodic search 
 
-<!-- ![A descriptive alt text for your research image](https://placehold.co/400x250/EEE/31343C?text=Your+Image+Here){: .align-right} -->
-
-<iframe width="400" height="250" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float: right; margin-right: 1em; border-radius: 8px;"></iframe>
+<video width="400" height="250" controls style="float: right; margin-right: 1em; border-radius: 8px;" src="/media/1_Rendezvous/ergodic.mp4">
+  Your browser does not support the video tag.
+</video>
 
 In real-world emergencies like search-and-rescue, a robot must find survivors while also mapping hazards—a difficult multi-objective problem. This is tough because optimally assigning conflicting tasks to a robotic team is a computationally expensive combinatorial challenge. We tackle this with two specialized planners: a sequential local search to find a Pareto front of optimal trade-offs for a single robot, and a branch-and-bound algorithm for multi-agent ergodic search to efficiently allocate team tasks.  Our methods deliver up to a 10x speedup over standard approaches and have been validated on physical robots, confirming their practical readiness.
 
