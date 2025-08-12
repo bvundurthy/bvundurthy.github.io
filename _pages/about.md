@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-I am a Project Scientist at the Robotics Institute, Carnegie Mellon University (CMU). My research is dedicated to a fundamental challenge for the future of robotics: how can teams of autonomous robots collaborate and succeed in complex environments, especially when facing adversaries?
+I am a Project Scientist at the Robotics Institute, Carnegie Mellon University (CMU). My research is dedicated to a fundamental challenge for the future of robotics: 
+
+**"How can teams of autonomous robots collaborate and succeed in complex environments, especially when facing intelligent adversaries?"**
 
 This opposition can take many forms. It might be the environment itself, like a team of drones battling high winds to find survivors in a wildfire. It could be an active adversary, such as a hostile agent jamming a drone's sensors or ambushing an autonomous convoy. Or, it could even come from within a coalition, as agents switch allegiances for individual gain.
 
