@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include toc %}
 
-This page is primarily concerned with collaboration in multi-agent systems in the presence of obstacles and constraints. Collaborative Multi-agent systems is a multi-faceted domain with multiple research thrusts. What follows is a brief summary of such research. 
+This page focuses on strategic interaction in multi-agent systems facing intelligent adversaries. My research explores geometric evasion tactics, dynamic role-switching using differential games, and methods for exploiting opponent learning through strategic deception.
 
 ## Handling a Vision-guided Adversary
 
