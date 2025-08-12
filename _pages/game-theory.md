@@ -10,36 +10,26 @@ This page is primarily concerned with collaboration in multi-agent systems in th
 
 ## Handling a Vision-guided Adversary
 
-![A descriptive alt text for your research image](https://placehold.co/400x250/EEE/31343C?text=Your+Image+Here){: .align-right}
+<video width="400" height="250" controls style="float: right; margin-right: 1em; border-radius: 8px;" src="/media/2_GameTheory/2. Intro Rescue.mp4">
+  Your browser does not support the video tag.
+</video>
 
-My research focuses on developing robust algorithms that allow teams of robots to coordinate and complete tasks safely, even when facing intelligent adversaries or challenging, unknown environments. I explore game-theoretic principles and distributed optimization to create strategies that are resilient to failures and external disruptions.
-
-This approach allows the text to flow naturally around the image. You can write as much or as little as you want, and the layout will adjust automatically. It's much more flexible than fixed columns.
-
-Key publications in this area include work on [robotic convoying](/publication/2025-robotic-convoying) and multi-target defense games.
+In high-risk environments like defense zones, autonomous agents must complete delivery tasks while simultaneously evading intelligent adversaries, creating a complex multi-objective problem. This is challenging because the adversary is often faster and better equipped, for instance, using vision sensors, while friendly rescue agents may operate with less information, relying only on wireless communication. To address this, the paper introduces a geometric framework based on Apollonius circles to compute "safe regions" where a delivery agent can rendezvous with a rescue agent before being intercepted. The impact of this technique is a hardware-efficient strategy that enables effective protection using only low-end microcontrollers, demonstrating that complex coordination and defense can be achieved without costly sensors on every agent. 
 
 ---
 
 ## Adversarial Interactions via Differntial Games
 
-![A descriptive alt text for your research image](https://placehold.co/400x250/EEE/31343C?text=Your+Image+Here){: .align-right}
+<video width="400" height="250" controls style="float: right; margin-right: 1em; border-radius: 8px;" src="/media/2_GameTheory/TAD_New_Expt_2_revision_submit_final.mp4">
+  Your browser does not support the video tag.
+</video>
 
-My research focuses on developing robust algorithms that allow teams of robots to coordinate and complete tasks safely, even when facing intelligent adversaries or challenging, unknown environments. I explore game-theoretic principles and distributed optimization to create strategies that are resilient to failures and external disruptions.
-
-This approach allows the text to flow naturally around the image. You can write as much or as little as you want, and the layout will adjust automatically. It's much more flexible than fixed columns.
-
-Key publications in this area include work on [robotic convoying](/publication/2025-robotic-convoying) and multi-target defense games.
+In complex defense scenarios, a defending agent faces the multi-objective dilemma of either intercepting an attacker or rescuing multiple targets. This decision is difficult because the interactions are not fixed; the defender can switch its role, and the attacker can dynamically change which target it pursues, making the engagement highly unpredictable. This paper models the conflict as a linear quadratic differential game and introduces a receding horizon approach to manage these dynamic changes. The impact is a framework that allows the defender to autonomously switch between "rescue" and "interception" modes based on the current threat level.
 
 ---
 
 ## Deception against Boundedly Rational Players
 
-![A descriptive alt text for your research image](https://placehold.co/400x250/EEE/31343C?text=Your+Image+Here){: .align-right}
-
-My research focuses on developing robust algorithms that allow teams of robots to coordinate and complete tasks safely, even when facing intelligent adversaries or challenging, unknown environments. I explore game-theoretic principles and distributed optimization to create strategies that are resilient to failures and external disruptions.
-
-This approach allows the text to flow naturally around the image. You can write as much or as little as you want, and the layout will adjust automatically. It's much more flexible than fixed columns.
-
-Key publications in this area include work on [robotic convoying](/publication/2025-robotic-convoying) and multi-target defense games.
+Fictitious Play (FP) typically assume all participants are playing by the same rules. The attached paper investigates what happens when this assumption is broken by introducing a single "intelligent player" (IP) who knows the entire game's payoff structure and is not required to follow FP. By strategically deviating from the standard algorithm, the IP can manipulate its opponents, who are predictably learning based on the history of actions. This allows the intelligent player to secure a payoff for itself that is superior to both the Nash and Stackelberg equilibrium outcomes. This result highlights a key fragility in the Fictitious Play algorithm, demonstrating how a strategic, deceptive agent can exploit the system and gain a significant advantage by leveraging superior information.
 
 ---
