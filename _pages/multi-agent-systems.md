@@ -36,7 +36,8 @@ Onkar Kulkarni, **B. Vundurthy**, and K. Sridharan
 
 ## Multi-agent Collaborative Construction 
 
-![A descriptive alt text for your research image](https://placehold.co/400x250/EEE/31343C?text=Your+Image+Here){: .align-right}
+<!-- ![A descriptive alt text for your research image](https://placehold.co/400x250/EEE/31343C?text=Your+Image+Here){: .align-right} -->
+![A descriptive alt text for your GIF](/media/1_Rendezvous/MACC.gif){: .align-right style="width: 27%; height: auto;"}
 
 To enable large-scale robotic construction in hazardous settings like space or disaster sites, teams of agents must build complex structures from simple blocks. This problem is challenging because robots must build and later remove temporary scaffolding to access higher locations, creating an intractable long-horizon planning problem for large structures. Our work introduces novel **decomposition** and **hierarchical** techniques, first planning abstractly before calculating detailed robot paths. These planners are designed for efficiency, achieving up to a 100x speedup in simulation over previous optimal methods, making them viable for future implementation on physical robotic platforms.
 
