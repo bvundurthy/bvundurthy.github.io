@@ -20,11 +20,11 @@ main:
   - title: "1. Multi-Agent Systems"
     url: /multi-agent-systems/    
 
-  - title: "2. Game Theory"
-    url: /game-theory/    
+  # - title: "2. Game Theory"
+  #   url: /game-theory/    
     
-  - title: "3. Robotic Testbeds"
-    url: /robotic-testbeds/
+  # - title: "3. Robotic Testbeds"
+  #   url: /robotic-testbeds/
 
     
   # - title: "CV"
