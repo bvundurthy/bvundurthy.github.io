@@ -18,7 +18,7 @@ In high-risk environments like defense zones, autonomous agents must complete de
 
 ---
 
-## Adversarial Interactions via Differntial Games
+## Adversarial Interactions via Differential Games
 
 <video width="400" height="250" controls style="float: right; margin-right: 1em; border-radius: 8px;" src="/media/2_GameTheory/TAD_New_Expt_2_revision_submit_final.mp4">
   Your browser does not support the video tag.
