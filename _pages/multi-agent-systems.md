@@ -10,8 +10,11 @@ This page is primarily concerned with collaboration in multi-agent systems in th
 
 ## Multi-agent Rendezvous Problems
 
-![A descriptive alt text for your research image](https://placehold.co/400x250/EEE/31343C?text=Your+Image+Here){: .align-right}
+<!-- ![A descriptive alt text for your research image](/media/1_Rendezvous/rob_3_obst_2_poly_static.mp4){: .align-right} -->
 
+<video width="400" height="250" controls style="float: right; margin-right: 1em; border-radius: 8px;" src="/media/1_Rendezvous/rob_3_obst_2_poly_static.mp4">
+  Your browser does not support the video tag.
+</video>
 
 In collaborative robotics for search-and-rescue operations and welfare support, agents must often meet to exchange items or perform joint tasks. This **rendezvous problem** is challenging in cluttered environments, where the goal is to find an optimal meeting spot that minimizes travel distance or time while navigating around obstacles. Our work employs geometric algorithms to compute this optimal location, such as a "gathering point" that minimizes the maximum path any robot travels or a "time-optimal" point for heterogeneous robots with differing speeds. Our research also addresses variants including navigation around both static and dynamic obstacles and rendezvous using only limited communication like IR beacons.
 
