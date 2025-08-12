@@ -47,7 +47,9 @@ To enable large-scale robotic construction in hazardous settings like space or d
 
 ## Multi-agent convoying 
 
-![A descriptive alt text for your research image](https://placehold.co/400x250/EEE/31343C?text=Your+Image+Here){: .align-right}
+<video width="400" height="250" controls style="float: right; margin-right: 1em; border-radius: 8px;" src="/media/4_ConvoyMMPUG/ConvoyDecentralized.mp4">
+  Your browser does not support the video tag.
+</video>
 
 For logistics and search-and-rescue missions, robotic convoys must navigate complex environments, often requiring the convoy to split or merge to meet changing operational needs. This is challenging because it requires both high-level route synchronization for the entire team and low-level, high-speed control to maintain tight formations without instability. Our work presents a novel framework combining a centralized **Vehicle Routing Problem (VRPMS-CC)** for mission planning with a decentralized **Model Predictive Control (MPC)** scheme for execution. This allows for optimal route planning while enabling individual robots to reactively adjust to their neighbors at high speeds. We have successfully demonstrated this approach on our custom-fabricated ground vehicles, showing robust performance in cluttered indoor environments.
 
