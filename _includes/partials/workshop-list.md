@@ -13,7 +13,7 @@ A. Xu, **B. Vundurthy**, G. Gutow, I. Abraham, J. Schneider, and H. Choset
 A. Bhat, G. Gutow, **B. Vundurthy**, Z. Ren, S. Rathinam, and H. Choset
 
 3\. **[Modular, Resilient, and Scalable System Design Approaches--Lessons learned in the years after DARPA Subterranean Challenge](https://arxiv.org/pdf/2404.17759)** (*Workshop on Field Robotics at ICRA, 2024*)  
-P. Sriganesh, J. Maier, A. Johnson, B. Shirose, R. Chandrasekar, C. Noren, J. Spisak, R. Darnley, **B. Vundurthy**, and M. Travers.
+   P. Sriganesh, J. Maier, A. Johnson, B. Shirose, R. Chandrasekar, C. Noren, J. Spisak, R. Darnley, **B. Vundurthy**, and M. Travers [Preprint](https://bvundurthy.github.io/media/0_Pubs/W01_MMPUGSystemsPaper_PrePrint.pdf)
 
 2\. **Hierarchical Propositional Logic Planning for Multi-Agent Collective Construction** (*4th Workshop on Future of Construction: Safe, Reliable, and Precise Robots in Construction Environments, ICRA, 2023*)  
 S. Singh, G. Gutow, A. K. Srinivasan, **B. Vundurthy**, and H. Choset.
