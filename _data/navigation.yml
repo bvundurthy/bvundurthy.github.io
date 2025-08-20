@@ -13,9 +13,6 @@ main:
 
   # - title: "Service"
   #   url: /service/
-    
-  # - title: "CV"
-  #   url: /cv/
 
   - title: "1. Multi-Agent Systems"
     url: /multi-agent-systems/    
@@ -26,6 +23,8 @@ main:
   - title: "3. Robotic Testbeds"
     url: /robotic-testbeds/
 
+  - title: "CV"
+    url: /media/Bhaskar_Vundurthy_CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/

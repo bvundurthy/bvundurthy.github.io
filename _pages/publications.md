@@ -1,8 +1,9 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: single
-class: wide  
+layout: archive
+author_profile: true
+# class: wide  
 ---
 {% include toc %}
 

@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include toc %}
 
-This page focuses on strategic interaction in multi-agent systems facing intelligent adversaries. My research explores geometric evasion tactics, dynamic role-switching using differential games, and methods for exploiting opponent learning through strategic deception.
+This page focuses on strategic interaction in multi-agent systems facing intelligent adversaries, and covers the **Second and Third C's: Contention and Conceit**. My research explores geometric evasion tactics, dynamic role-switching using differential games, and methods for exploiting opponent learning through strategic deception.
 
 ## Handling a Vision-guided Adversary
 
@@ -15,6 +15,11 @@ This page focuses on strategic interaction in multi-agent systems facing intelli
 </video>
 
 In high-risk environments like defense zones, autonomous agents must complete delivery tasks while simultaneously evading intelligent adversaries, creating a complex multi-objective problem. This is challenging because the adversary is often faster and better equipped, for instance, using vision sensors, while friendly rescue agents may operate with less information, relying only on wireless communication. To address this, the paper introduces a geometric framework based on Apollonius circles to compute "safe regions" where a delivery agent can rendezvous with a rescue agent before being intercepted. The impact of this technique is a hardware-efficient strategy that enables effective protection using only low-end microcontrollers, demonstrating that complex coordination and defense can be achieved without costly sensors on every agent. 
+
+
+**Relevant Publication**
+
+1. **[Protecting an Autonomous Delivery Agent Against a Vision-Guided Adversary](https://ieeexplore.ieee.org/document/8930280)** (*IEEE Transactions on Industrial Informatics*, 2020)  [Postprint](https://bvundurthy.github.io/media/0_Pubs/J02_ProtectingAgainstVisionGuidedAdversary_TII2020_PostPrint.pdf)
 
 ---
 
@@ -26,10 +31,20 @@ In high-risk environments like defense zones, autonomous agents must complete de
 
 In complex defense scenarios, a defending agent faces the multi-objective dilemma of either intercepting an attacker or rescuing multiple targets. This decision is difficult because the interactions are not fixed; the defender can switch its role, and the attacker can dynamically change which target it pursues, making the engagement highly unpredictable. This paper models the conflict as a linear quadratic differential game and introduces a receding horizon approach to manage these dynamic changes. The impact is a framework that allows the defender to autonomously switch between "rescue" and "interception" modes based on the current threat level.
 
+**Relevant Publication**
+
+1. **[Study of Multiple Target Defense Differential Games](https://ieeexplore.ieee.org/document/9524434)** (*IEEE Transactions on Control Systems Technology*, 2022)  [Preprint](https://bvundurthy.github.io/media/0_Pubs/J03_TADGame_RecedingHorizon_TCST2022_PrePrint.pdf)
+
 ---
 
 ## Deception against Boundedly Rational Players
 
 Fictitious Play (FP) typically assume all participants are playing by the same rules. The attached paper investigates what happens when this assumption is broken by introducing a single "intelligent player" (IP) who knows the entire game's payoff structure and is not required to follow FP. By strategically deviating from the standard algorithm, the IP can manipulate its opponents, who are predictably learning based on the history of actions. This allows the intelligent player to secure a payoff for itself that is superior to both the Nash and Stackelberg equilibrium outcomes. This result highlights a key fragility in the Fictitious Play algorithm, demonstrating how a strategic, deceptive agent can exploit the system and gain a significant advantage by leveraging superior information.
+
+**Relevant Publication**
+
+1. **[Intelligent Players in a Fictitious Play Framework](https://ieeexplore.ieee.org/document/10100885)** (*IEEE Transactions on Automatic Control*, 2024) [Postprint](https://bvundurthy.github.io/media/0_Pubs/J06_IntelligentPlayersFictitousPlay_TAC2024_PostPrint.pdf)
+
+
 
 ---
