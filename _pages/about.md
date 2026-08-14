@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Project Scientist at the Robotics Institute, Carnegie Mellon University (CMU). My research is dedicated to a fundamental challenge for the future of robotics: 
+I am an incoming Assistant Professor in the School of Computing, University of Nebraska-Lincoln (UNL). My research is dedicated to a fundamental challenge for the future of robotics: 
 
 <p style="text-align:center;"><i>"How can teams of <span style="color: #2596be;"> autonomous robots collaborate </span> and succeed in complex environments, especially when facing <span style="color: #2596be;"> intelligent adversaries</span>?"</i></p>
 
@@ -24,10 +24,10 @@ To address these challenges, I develop new theoretical foundations for multi-age
 -   **Contention:** Developing strategies to outmaneuver or intercept adversaries, and
 -   **Conceit:** Leveraging informational advantages to exploit opponent vulnerabilities.
 
-I am a strong believer in experimental validation, and I actively use both in-house fabricated and commercial autonomous robots to bring my research from theory to practice. Before my time at CMU, I worked at The MathWorks Inc., where I created advanced simulations for autonomous vehicles, including for the Indy-500 oval circuit.
-
-My work has been recognized with best-paper nominations and invitations to special-issue journals. Beyond research, I am deeply passionate about mentoring the next generation of roboticists and was honored to be nominated for CMU's prestigious ‘Andy Award’ for my dedication to student mentorship.
+I am a strong believer in experimental validation, and I actively use both in-house fabricated and commercial autonomous robots to bring my research from theory to practice (images are from my time with the Carnegie Mellon University (CMU) and Indian Institute of Technology Madras). Before my time at CMU, I worked at The MathWorks Inc., where I created advanced simulations for autonomous vehicles, including for the Indy-500 oval circuit.
 
 <!-- ![Alt text for your image](/media/3_Testbeds/Robot_Image.png){:  style="width: 60%; height: auto;"} -->
 
 <img src="/media/3_Testbeds/Robot_Image.png" alt="A descriptive caption" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+
+My work has been recognized with best-paper nominations and invitations to special-issue journals. Beyond research, I am deeply passionate about mentoring the next generation of roboticists and was honored to be nominated for CMU's prestigious ‘Andy Award’ for my dedication to student mentorship.
