@@ -23,13 +23,13 @@ repository               : "bvundurthy/bvundurthy.github.io"
 author:
   # Biographic information
   avatar           : "bhaskarv_img.jpg"
-  name             : "Project Scientist, CMU"
+  name             : "Assistant Professor, UNL"
   pronouns         : # example: "she/her"  
   bio              : "Works on robust coordination and decision-making for multi-robot teams in adversarial settings."
-  location         : "Pittsburgh, PA, USA"
-  employer         : "Carnegie Mellon University"
+  location         : "Lincoln, NE, USA"
+  employer         : "University of Nebraska-Lincoln"
   uri              : # URL
-  email            : "bhaskarv@cmu.edu" 
+  email            : "pvundurthy2@unl.edu" 
 
   # Academic websites
   academia         : # URL
