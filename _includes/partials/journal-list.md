@@ -1,5 +1,10 @@
 ## Journals
 
+11\. **[Balancing Robotic Search and Survival: A Game-Theoretic Framework for Ergodic Search in Contested Domains](https://ieeexplore.ieee.org/document/11563809)** (*IEEE Control Systems Letters, 2026*) D. Mick, H. Choset, **B. Vundurthy** [Postprint](https://bvundurthy.github.io/media/0_Pubs/J11_LCSS_Adversarial_Ergodic_Search_PostPrint.pdf) 
+
+10\. **[Parallel, Asymptotically Optimal Algorithms for Moving Target Traveling Salesman Problems](https://ieeexplore.ieee.org/document/11575108) (*IEEE Transactions on Robotics, 2026*) A. Bhat, G. Gutow, **B. Vundurthy**, Z. Ren, S. Rathinam and H. Choset [Postprint](https://bvundurthy.github.io/media/0_Pubs/J10_TRO_ParallelAsymptotic_MTSP_PostPrint.pdf)
+
+
 9\. **[Generative Models, Attention Mechanisms, and Adaptive Methods for Robot Navigation in Complex Environments—A Survey](https://ieeexplore.ieee.org/document/11084772)** (*IEEE Access, 2025*)  
    H. Sridharan, N. Ramsai and **B. Vundurthy** [PDF](https://bvundurthy.github.io/media/0_Pubs/J09_Survey_Learning_IEEE_Access_PDF.pdf)
 
